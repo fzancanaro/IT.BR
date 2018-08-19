@@ -94,3 +94,6 @@ function activateCurrentSection() {
     nav.find('a[href="#' + id + '"]').addClass('active');
   }
 }
+$('.carousel').carousel({
+  interval: 2000
+})
