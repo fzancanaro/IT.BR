@@ -58,6 +58,11 @@ body {
           margin-bottom: 11px !important;
           text-align: center !important;
       }
+      .img-fluid {
+        max-width: 100%;
+        height: auto;
+      }
+
       
     
          
